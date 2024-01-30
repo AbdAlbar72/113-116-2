@@ -1,0 +1,34 @@
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: rgb(90, 253, 112);
+}
+
+button {
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #3498db;
+    color: rgb(1, 13, 67);
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+canvas {
+    border: 2px solid black;
+    display: block;
+    margin: 20px auto;
+}
